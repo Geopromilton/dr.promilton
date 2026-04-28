@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en" data-screen-label="C · About">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — Dr. Promilton</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Lora:ital,wght@0,400;0,500;0,600;1,500&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+<div id="app"></div>
+<script src="data.js"></script>
+<script src="layout.js"></script>
+<script>
+(function () {
+  const P = window.PROFILE; const L = window.C_LAYOUT;
+  const html = `
+    <div class="layout">
+      ${L.sidebar('about.html')}
+      <main class="main page-fade">
+        <span class="kicker">About</span>
+        <h1 class="h-display">A geophysicist's notebook, opened.</h1>
+        <p class="lead">A decade reading what rocks and water tell you — across coastal terraces, charnockite hills and quartzite plains in southern India.</p>
+
+        <section class="section">
+          <div class="section-title"><h2>Bio</h2></div>
+          <div class="card">${P.bio.map(p => `<p style="font-family:var(--serif); font-size:18px; line-height:1.6; color:var(--ink); margin-bottom:1em;">${p}</p>`).join('')}
+            <p style="font-family:var(--serif); font-size:18px; line-height:1.6; color:var(--ink);">Beyond research, I serve as a peer reviewer for three international journals and consult for civil and irrigation clients across Tamil Nadu and Gujarat.</p>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-title"><h2>Education</h2></div>
+          <div class="edu-list">
+            ${P.education.map(e => `
+              <div class="edu-item reveal">
+                <div class="yr">${e.year}</div>
+                <div>
+                  <div class="deg">${e.degree}</div>
+                  <div class="inst">${e.institution}</div>
+                  <div class="det">${e.detail}</div>
+                </div>
+                <div class="marks"></div>
+              </div>`).join('')}
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-title"><h2>Capabilities</h2></div>
+          <div class="skills-grid">
+            ${P.skillGroups.map(g => `
+              <div class="skill-block reveal"><h4>${g.title}</h4>
+                <ul>${g.items.map(i => `<li>${i}</li>`).join('')}</ul>
+              </div>`).join('')}
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-title"><h2>Awards & affiliations</h2></div>
+          <div class="award-grid">
+            ${P.awards.map(a => `<div class="award reveal"><div class="icon">★</div><div><div class="yr">${a.year}</div><h4>${a.title}</h4><p>${a.body}</p></div></div>`).join('')}
+          </div>
+          <div style="margin-top:24px;">
+            <h4 style="font-family:var(--serif); font-size:16px; font-weight:600; margin-bottom:12px;">Reviewer for</h4>
+            <div class="tag-cloud">${P.reviewedFor.map(j => `<span class="tag">${j}</span>`).join('')}</div>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-title"><h2>Areas of research</h2></div>
+          <div class="tag-cloud">${P.interests.map(i => `<span class="tag">${i}</span>`).join('')}</div>
+        </section>
+
+        <div class="foot"><span>© 2026 · Dr. A. Antony Alosanai Promilton</span><span>Thoothukudi, Tamil Nadu</span></div>
+      </main>
+    </div>
+    ${L.tweaksPanel()}
+  `;
+  document.getElementById('app').innerHTML = html;
+  L.bindTweaks(); L.bindReveals();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en" data-screen-label="C · Contact">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact — Dr. Promilton</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Lora:ital,wght@0,400;0,500;0,600;1,500&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+<div id="app"></div>
+<script src="data.js"></script>
+<script src="layout.js"></script>
+<script>
+(function () {
+  const P = window.PROFILE; const L = window.C_LAYOUT;
+  const social = [
+    { l: 'Email', v: P.email, h: 'mailto:'+P.email, a: 'Send →' },
+    { l: 'LinkedIn', v: '/in/a-antony-alosanai-promilton', h: P.links.linkedin, a: 'Connect →' },
+    { l: 'Google Scholar', v: 'kkKsxrYAAAAJ', h: P.links.scholar, a: 'View →' },
+    { l: 'ResearchGate', v: 'Antony Alosanai', h: P.links.researchgate, a: 'Follow →' },
+    { l: 'GitHub', v: 'Geopromilton', h: P.links.github, a: 'See repos →' },
+    { l: 'ORCID', v: P.orcid, h: 'https://orcid.org/'+P.orcid, a: 'Profile →' },
+  ];
+  const html = `
+    <div class="layout">
+      ${L.sidebar('contact.html')}
+      <main class="main page-fade">
+        <span class="kicker">Contact</span>
+        <h1 class="h-display">Get in touch.</h1>
+        <p class="lead">Available for consulting, peer review, collaborations, lab visits and academic advising. I respond to all serious inquiries within 48 hours.</p>
+
+        <section class="section">
+          <div class="contact-grid">
+            <div class="contact-card">
+              <h3 style="font-family:var(--serif); font-size:22px; font-weight:600; margin-bottom:8px; letter-spacing:-0.01em;">Direct</h3>
+              <p style="color:var(--ink-mute); font-size:13px; margin-bottom:12px;">Reach me on the channels below — email is best for project enquiries.</p>
+              <div class="cnt-row"><div class="lab">Email</div><div class="val"><a href="mailto:${P.email}">${P.email}</a></div></div>
+              <div class="cnt-row"><div class="lab">Phone</div><div class="val">${P.phone}<br><span style="color:var(--ink-mute);font-size:13px;">${P.phone2}</span></div></div>
+              <div class="cnt-row"><div class="lab">Address</div><div class="val">${P.address}</div></div>
+              <div class="cnt-row"><div class="lab">Languages</div><div class="val">Tamil (Native) · English (Fluent)</div></div>
+              <div class="cnt-row"><div class="lab">ORCID</div><div class="val"><a href="https://orcid.org/${P.orcid}" target="_blank">${P.orcid}</a></div></div>
+              <div style="margin-top:18px;"><a class="btn btn-primary" href="mailto:${P.email}">✉ Send an email</a></div>
+            </div>
+            <div>
+              <h3 style="font-family:var(--serif); font-size:22px; font-weight:600; margin-bottom:14px; letter-spacing:-0.01em;">Profiles</h3>
+              <div class="social-list">
+                ${social.map(s => `<a class="social-card" href="${s.h}" target="_blank"><div><div class="l">${s.l}</div><div class="v">${s.v}</div></div><div class="a">${s.a}</div></a>`).join('')}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-title"><h2>References</h2></div>
+          <div class="skills-grid">
+            ${P.references.map(r => `<div class="skill-block"><h4>${r.name}</h4><p style="color:var(--ink-soft); font-size:13px; line-height:1.5;">${r.role}<br><span style="color:var(--ink-mute);">${r.org}</span></p><p style="color:var(--ink-mute); font-size:12px; margin-top:8px;"><a href="mailto:${r.email}" style="color:var(--accent);">${r.email}</a><br>${r.phone||''}</p></div>`).join('')}
+          </div>
+        </section>
+
+        <div class="foot"><span>© 2026 · Dr. A. Antony Alosanai Promilton</span><span>Thoothukudi, Tamil Nadu</span></div>
+      </main>
+    </div>
+    ${L.tweaksPanel()}
+  `;
+  document.getElementById('app').innerHTML = html;
+  L.bindTweaks(); L.bindReveals();
+})();
+</script>
+</body>
+</html>

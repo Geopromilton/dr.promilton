@@ -1,0 +1,162 @@
+Dr. A. ANTONY ALOSANAI
+PROMILTON
+Ph.D.  · Hydrogeologist · Consultant Geophysicist · Geospatial Researcher
+✉  geopromilton@gmail.com     ☎  +91-9962353227 / +91-8248128907
+⌂  3/25, Antoniar Kebi Street, Mela Arasadi Po. Vellapatti, Thoothukudi, Tamil Nadu – 628002, India
+ORCID: 0000-0002-6762-0103     Google Scholar: kkKsxrYAAAAJ
+
+22
+JOURNAL ARTICLES
+7
+BOOK CHAPTERS
+45+
+CITATIONS
+3
+h-INDEX
+3
+JOURNALS REVIEWED
+◼ PERSONAL INFORMATION
+Date of Birth
+21 October 1994
+Gender
+Male
+Nationality
+Indian
+Category
+OBC
+Marital Status
+Married
+Languages
+Tamil (Native), English (Fluent)
+
+◼ FIELDS OF RESEARCH INTEREST
+Hydrogeology and groundwater exploration · Applied geophysics (VES, ASAR, ERT, AMT/ADMT) · Coastal hydrogeology · Hard rock aquifer characterization · Hydrogeochemistry and water quality assessment · GIS, remote sensing and geospatial analysis · MCDA (AHP, TOPSIS) · Machine learning in hydrology · Sediment geochemistry and marine studies · Disaster vulnerability mapping · Sustainable water resource management · Renewable energy site selection
+
+◼ ACADEMIC QUALIFICATIONS
+Degree
+University / Institution
+Year
+Marks / Grade
+Ph.D. (Geology)
+Manonmaniam Sundaranar University, Tirunelveli
+2025
+—
+M.Sc. (Geology)
+V.O. Chidambaram College, Thoothukudi
+2017
+79% (Dist.)
+B.Sc. (Geology)
+V.O. Chidambaram College, Thoothukudi
+2015
+78% (Dist.)
+
+Ph.D. Thesis: ‘Groundwater Investigations Using Azimuthal Square Array Method and Geochemical Modelling in Hard Rock Terrain, Valliyur Region, Tamil Nadu’
+Guide: Dr. A. Antony Ravindran, Assistant Professor, V.O. Chidambaram College, Thoothukudi (Affiliated to MSU, Tirunelveli)
+
+◼ WORK EXPERIENCE
+Position
+Organization
+From
+To
+Nature
+Consultant Geologist / Geophysicist
+Imman Geotech Pvt. Ltd., Thoothukudi
+Mar 2021
+Present
+Freelance / Consultant
+Subject Matter Expert – Earth Sciences
+Chegg India Pvt. Ltd.
+Aug 2018
+Mar 2025
+Freelance
+Hydrogeologist
+Ratnam Energy Pvt. Ltd., Gujarat
+Jul 2017
+Aug 2018
+Full-time
+
+◼ RESEARCH EXPERTISE & TECHNICAL SKILLS
+i. Hydrogeology & Groundwater Characterization
+▸ Groundwater flow pattern analysis, aquifer characterization, hydraulic property determination and groundwater storage dynamics
+▸ Pumping tests, slug tests, recovery analysis for transmissivity and storativity parameter estimation
+▸ Well drilling supervision, lithological logging, water level monitoring and geochemical sampling
+ii. Geophysical Surveying & Subsurface Investigation
+▸ Vertical Electrical Sounding (VES), Azimuthal Square Array Resistivity (ASAR), ERT, AMT/ADMT surveys
+▸ Fracture orientation mapping and secondary porosity estimation in hard rock terrain using ASAR
+▸ Geophysical data interpretation, subsurface lithological modelling, 3D aquifer modelling
+iii. Hydrogeochemical Analysis & Water Quality
+▸ Major ion analysis, trace elements, heavy metal concentration determination
+▸ WQI, DRASTIC vulnerability index, contamination factor analysis and health risk assessment
+▸ PCA, HCA and multivariate statistical analysis for hydrogeochemical data interpretation
+iv. GIS, Remote Sensing & Geospatial Analysis
+▸ ArcGIS, QGIS, Google Earth Engine (GEE), ERDAS Imagine
+▸ AHP, TOPSIS for groundwater potential mapping, suitability assessment and LULC change detection
+▸ HEC-HMS, HEC-RAS, MODFLOW, GMS for hydrological and groundwater modelling
+v. Programming & Machine Learning
+▸ Python, Google Colab; Random Forest, XGBoost, SVM, SHAP, CA-Markov modelling
+vi. Sediment Characterization & Marine Studies
+▸ Marine sediment sampling, grain size analysis, heavy mineral and organic matter characterization
+
+◼ PROFESSIONAL RECOGNITION & AWARDS
+▸ Best Researcher Award in Earth and Planetary Sciences — Book of Award, September 2025
+▸ Associate Student Member (ID: 145289), International Association of Hydrogeologists (IAH) — since August 2024
+
+
+◼ PEER-REVIEWED JOURNAL PUBLICATIONS (SCI/SCOPUS/WOS INDEXED)
+1. Pitchaimani, V. S., Aswin, S. K., Abishek, S. R., Sidhu, N., Promilton, A. J. A. A., Ravindran, A. J. A., & Joe, R. J. J. (2026). Hydrogeophysical mapping and seawater intrusion assessment in Southern Tamil Nadu, India: Application of vertical electrical sounding and Dar-Zarrouk parameters. Cleaner Water, 6, 100266. https://doi.org/10.1016/j.clwat.2026.100266 
+2. Abishek, S.R., Pitchaimani, V.S., Ravindran, A.A., R. Sakthi Priya, S. Kaliraj, A. Antony Alosanai Promilton & R J Jerin Joe. Integrated assessment of soil and rock penetration across the crystalline basement of the lower Thamirabarani river basin, southern India. Discover Civil Engineering, 3, 68 (2026). 10.1007/s44290-026-00451-9
+3. Pitchaimani, V.S., Joe, R.J.J., Stuvar, S.S.R., Liberthin, M., Promilton, A.A.A. & Abishek, S.R. Landslide susceptibility and vulnerability assessment using GIS–AHP in the highland of Wayanad, Western Ghats, India. Discov. Hazards, 2, 5 (2026). 10.1007/s44475-026-00008-5
+4. Pitchaimani, V.S., Abishek, S.R., Joe, R.J.J. & Promilton, A.A.A. Seasonal variations of inner shelf sediment dynamics and granulometric characteristics along the Nagapattinam coast of the Cauvery basin, Southern India. Discover Oceans, 3, 4 (2026). 10.1007/s44289-025-00109-x
+5. Abishek, S.R., Pitchaimani, V.S., Kaliraj, S., Priya, R.S., Ravindran, A.A., Promilton, A.A.A. & Karuppannan, S. Hydrogeochemical variability and health risk assessment of heavy metals in groundwater of Srivaikundam region, Southern India. Environmental Geochemistry and Health, 48, 37 (2026). 10.1007/s10653-025-02914-x
+6. Grace, C.A.Z., Soundranayagam, J.P., Sidhu, N., et al. & Promilton, A.A.A. Decadal dynamics of urban heat Islands in a coastal industrial region of India: remote sensing insights for sustainable urban planning. Environment, Development and Sustainability, (2025). 10.1007/s10668-025-07153-9
+7. Ramachandran, A., Promilton, A.A.A., Pitchaimani, V.S., et al. Provenance and Coastal Dynamics inferred through Textural parameters and Heavy Mineral contents of the Shoreline Sediments, Tamil Nadu, Southeast India. J. Indian Assoc. Sedimentologists, 42(II), 34–51 (2025). 10.51710/jias.v42iI.445
+8. Grace, C.A.Z., Soundranayagam, J.P., et al. & Promilton, A.A.A. Quantifying spatiotemporal LULC change and urban expansion using geospatial modelling and Shannon's entropy in a coastal city of India. Discover Civil Engineering, 2, 189 (2025). 10.1007/s44290-025-00341-6
+9. Joe, R.J.J., Pitchaimani, V.S., Kaliraj, S., Abishek, S.R., Promilton, A.A.A. & Karuppannan, S. Spatial modelling of groundwater potential zones in the Neyyar Basin using machine learning and morphometric analysis. Scientific Reports, 15, 36171 (2025). 10.1038/s41598-025-20000-1
+10. Promilton, A.A.A., Ravindran, A.A., Pitchaimani, V.S., Kingston, J.V., Abishek, S.R. & Joe, R.J.J. Characterization of Fractured Basement Aquifers Using Square Array VES, Azimuthal Resistivity Analysis and 3D Lithological Modelling: An Integrated Approach for Sustainable Groundwater Management. Water Conservation Science and Engineering, 10, 114 (2025). 10.1007/s41101-025-00444-2
+11. Grace, C.A.Z., Soundranayagam, J.P., Promilton, A.A.A., et al. Integrating Remote Sensing and Geospatial-Based Comprehensive MCDA Approach for Sustainable Coastal Solar Site Selection in Southern India. ISPRS Int. J. Geo-Information, 14, 377 (2025). 10.3390/ijgi14100377
+12. Promilton, A.A.A., Ravindran, A.A., Pitchaimani, V.S., Kingston, J.V. & Karuppannan, S. Comprehensive hydrogeochemical characterization and seasonal water quality index analysis for sustainable groundwater management in Valliyur region, Southern Tamil Nadu, India. Scientific Reports, 15, 33251 (2025). 10.1038/s41598-025-18285-3
+13. Abishek, S.R., Ravindran, A.A., Pitchaimani, V.S., S. Kaliraj, J. Vinoth Kingston, A. Antony Alosanai Promilton & Joe, R.J.J. Hydrogeophysical characterization of groundwater and subsurface geology using VES and GMS modeling in Srivaikundam region, Southern Tamil Nadu. Modeling Earth Systems and Environment, 11, 339 (2025). 10.1007/s40808-025-02542-5
+14. Grace, C.A.Z., Soundranayagam, J.P., Promilton, A.A.A. & Pitchaimani, V.S. Mapping of Cyclone Disaster Vulnerability using Geospatial Techniques and AHP: Implications for Resilient Urban Planning in Coastal City of Southern Tamil Nadu. Disaster Advances, 18(7), 50–60 (2025). 10.25303/187da050060
+15. Aswin, S.K., Pitchaimani, V.S. & Promilton, A.A.A. Flood Susceptibility Assessment for Coastal Villages of Southern Tamil Nadu: An Integrated GIS and AHP Approach. Disaster Advances, 18(6), 18–27 (2025). 10.25303/186da018027
+16. Priya, R.S., Ravindran, A.A., Abishek, S.R., et al. & Promilton, A.A.A. An application of remote sensing and GIS used in groundwater potential zones for sustainable urban development in coastal areas between Chettikulam and Kolachal, southern India. Applied Geomatics, (2025). 10.1007/s12518-024-00604-4
+17. Grace, C.A.Z., Soundranayagam, J.P., Promilton, A.A.A. & Pitchaimani, V.S. Synergizing Hazard Resilience And Renewable Energy Potential For Smart Coastal Development: A GIS-MCDA Approach In Thoothukudi, India. Nanotechnology Perceptions, 20(S13), 2608–2628 (2024).
+18. Ravindran, A.A., Promilton, A.A.A., Kingston, J.V., Abishek, S.R., Abinaya, R. & Priya, R.S. Multicriteria Analysis of Groundwater Potential in Valliyur Region, Tamil Nadu: Integrating Remote Sensing, GIS and AHP. Water Conservation Science and Engineering, 9, 53 (2024). 10.1007/s41101-024-00285-5
+19. Ravindran, A.A., Abinaya, R., Abishek, S.R., Kingston, J.V., Promilton, A.A.A. & Priya, R.S. Geophysical exploration of tectonic signatures in proterozoic quartzite of the Kovilpatti region, Southern India. Carbonates and Evaporites, 39, 59 (2024). 10.1007/s13146-024-00962-5
+20. Ravindran, A.A., Promilton, A.A.A., Kingston, J.V., et al. Geophysical and geochemical studies on sinking stream occurrence in Ayankulam village of South Tamilnadu, India. Proc. Indian National Science Academy, (2024). 10.1007/s43538-024-00287-w
+21. Ravindran, A.A. & Promilton, A.A.A. Geophysical and geochemical prospecting for submarine groundwater discharge in a karst leaky aquifer from Valliyur Hills to Uvari Beach. Modeling Earth Systems and Environment, 8, 4909–4921 (2022). 10.1007/s40808-022-01412-8
+22. Kingston, J.V., Ravindran, A.A., Abishek, S.R., Aswin, S.K. & Promilton, A.A.A. Integrated geophysical and geochemical assessment of submarine groundwater discharge in coastal terrace of Tiruchendur, Southern India. Applied Water Science, 12, 9 (2022). 10.1007/s13201-021-01553-8
+23. Jeyapaul, V.K., Antony Jebamalai, A.R., Selvam, R.A., Krishnaveni, A.S. & Antony Johnson, A.A.P. A case study of freshwater discharge in porous calcarenite formation in coastal terrace at Manapad, South India. Carbonates and Evaporites, 35, 114 (2020). 10.1007/s13146-020-00641-1
+
+◼ BOOK CHAPTERS & CONFERENCE PROCEEDINGS
+1. Rajendran, A., Ravindran, A., Promilton, A.A., Ganesan, S. ‘Interacting RS and GIS to GWPZ in Urban Development Site Suitability Analysis of Kovilpai Region, Southern Tamil Nadu, India.’ (2025)
+2. Promilton, A.A., Ravindran, A., Afzal, M., Rajendran, A. ‘Groundwater Exploration in Fractured Charnockite Formation for Irrigation at Alangulam, Tamil Nadu, India.’ (2024)
+3. Ravindran, A., Kingston, J.V., Samy, M., Promilton, A.A., Rajendran, A. ‘Groundwater Management Studies Using Geological and 2D ERI Techniques in Ariyanayakipuram Village, Tirunelveli, Tamil Nadu, India.’ (2023)
+4. Abishek, S.R., et al. ‘Groundwater Exploration Study using 2D ERI and Geochemical Mapping in Muruganpuram, Vallanadu, Tamil Nadu.’ CESS–2022, pp. 66–70.
+5. Kingston, J.V., et al. ‘Freshwater discharge in coastal aquifer study using electrical resistivity and geochemical method in Sahupuram, Thoothukudi.’ CESS–2022, pp. 50–56.
+6. Kanagaraj, R., et al. ‘Crystalline limestone investigation study in Podupatti and Pungarvattam, Ettayapuram, Thoothukudi.’ CESS–2022, pp. 134–138.
+
+◼ PAPER PRESENTATIONS
+International Conferences
+▸ ‘Signature of Sinking Streams on Calcarenite Rock Study Using Geophysical and Geochemical Investigation in Ayankulam Area, South Tamil Nadu, India’ — ICRAWST-2022, December 2022
+▸ ‘Exploration of Ground Water Using Azimuthal Square Array Method and Magneto Telluric Method in Quartzite Rich Terrain of Pudukkottai, Tamil Nadu’ — CESS-2022
+
+◼ JOURNAL REVIEWER SERVICE
+▸ Environmental Monitoring and Assessment
+▸ Groundwater for Sustainable Development
+▸ Sustainable Water Resources Management
+
+◼ REFERENCES
+1.  Dr. A. Antony Ravindran
+Research Supervisor, Assistant Professor, PG & Research Dept. of Geology, V.O. Chidambaram College, Thoothukudi – 628008
+Email: antonicogeo@gmail.com | Phone: +91 9080187893
+2.  Dr. V. Stephen Pitchaimani
+Assistant Professor, Department of Geology, V.O. Chidambaram College, Thoothukudi – 628008
+Email: vsssgeo@gmail.com | Phone: +91 98406 80473
+3.  Dr. N. Gladwin Gnana Asir
+Assistant Professor of Marine Science, SDMRI, Beach Road, Thoothukudi – 628001
+Email: gladwinasir@gmail.com | Phone: +91 8903682383
+
+Declaration: I hereby declare that the information provided above is correct to the best of my knowledge and belief.
+
+Dr. A. Antony Alosanai Promilton
+Thoothukudi, Tamil Nadu

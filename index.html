@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en" data-screen-label="C · Home">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dr. Promilton — Hydrogeologist</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Lora:ital,wght@0,400;0,500;0,600;1,500&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+<div id="app"></div>
+<script src="data.js"></script>
+<script src="layout.js"></script>
+<script>
+(function () {
+  const P = window.PROFILE; const L = window.C_LAYOUT;
+  const html = `
+    <div class="layout">
+      ${L.sidebar('index.html')}
+      <main class="main page-fade">
+        <span class="kicker">Welcome</span>
+        <h1 class="h-display">Reading the water beneath hard&nbsp;rock.</h1>
+        <p class="lead">Hydrogeologist and consultant geophysicist with a doctorate from MSU Tirunelveli, ${P.publications.length} peer-reviewed publications and a decade of field practice across southern India's coastal and basement aquifers.</p>
+
+        <div class="stats">
+          ${P.stats.map(s => `<div class="stat-card reveal"><div class="v">${s.value}</div><div class="l">${s.label}</div></div>`).join('')}
+        </div>
+
+        <section class="section">
+          <div class="section-title"><h2>Featured projects</h2><span class="sub">Selected research & consulting</span></div>
+          <div class="proj-grid">
+            ${P.featuredProjects.map(p => `
+              <article class="proj reveal">
+                <div class="proj-cover"><span class="glyph">${p.tag.charAt(0)}</span></div>
+                <div class="proj-body">
+                  <span class="proj-tag">${p.tag}</span>
+                  <h3>${p.title}</h3>
+                  <p>${p.body}</p>
+                  <div class="proj-meta"><span>${p.year}</span><em>${p.journal}</em></div>
+                </div>
+              </article>`).join('')}
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-title"><h2>Areas of expertise</h2></div>
+          <div class="tag-cloud">${P.interests.map(i => `<span class="tag">${i}</span>`).join('')}</div>
+        </section>
+
+        <div class="contact-cta">
+          <div>
+            <h3>Open for consulting & collaboration.</h3>
+            <p>Groundwater investigations, geophysical surveys, hydrogeochemical analysis, geospatial modelling, peer review.</p>
+          </div>
+          <div class="cta-buttons">
+            <a class="btn btn-primary" href="contact.html">Get in touch →</a>
+            <a class="btn btn-ghost" href="work.html">See all work</a>
+          </div>
+        </div>
+
+        <div class="foot"><span>© 2026 · Dr. A. Antony Alosanai Promilton</span><span>Thoothukudi, Tamil Nadu</span></div>
+      </main>
+    </div>
+    ${L.tweaksPanel()}
+  `;
+  document.getElementById('app').innerHTML = html;
+  L.bindTweaks(); L.bindReveals();
+})();
+</script>
+</body>
+</html>
